@@ -1,0 +1,21 @@
+Dense - neuronio inicial que conecta com todos os neuronios da camada anterior e soma bias, etc
+
+Conv2D
+
+MaxPooling2D
+
+Activation
+
+Flatten - Transforma uma imagem de 2 dimensões em um dado de uma dimensão só.
+
+Dropout -> Técnica que retira alguns neurônios para reduzir overfitting
+
+BatchNormalization -> normalizar os dados da entrada anterior para deixar a média o mais próximo possivel de 0 
+(reduz erros)
+
+
+--- Processamento de Linguagem Natural
+
+LSTM
+
+Embedding
